@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   background-color: #000000 !important;
+   
+    padding-top: 50px;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.border-color{
+  
+  border-radius: 7px;
+}
+.menu{
+  
+}
+.menu a{
+  background-color: white !important;
+  text-decoration: none !important; 
+  color:black !important ;
+  display: block !important; 
+  box-sizing: border-box !important;
+  font-size: 16px !important;
+  
+
+
+}  
+.menu a:hover{
+  background-color: #341f97 !important; 
+  color: white !important;
+  
+  
+}
+
+.avatar{
+  border-radius: 5px;
+ 
+}
+
+.avatar-img img{
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+}
+.avatar .border-bottom{
+  border-bottom:1px solid #f3f3f3 !important;  
+
+}
+
+.profile-img img{
+  border-radius: 50px;
+  width: 45px;
+  height: 45px;
+}
+
+.tx-14{
+  font-size: 14px !important;
+}
+.tx-12{
+  font-size: 12px !important;
+}
+.add-post input{
+  border-radius: 20px !important;
+  border:1px solid gray !important
+}
+.add-post button{
+  border-radius: 30px !important;
+  border: 1px solid gray !important;
+  
+}
+.icon span{
+  display: block ; 
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+  
+}
+.icon span:hover{
+  border-radius: 20px; 
+  background-color: #341f97; 
+  color: white;
+}
+a{
+  text-decoration: none !important;
+  color:white !important
+}
+.primary-color{
+  background-color: #341f97 !important;
+  color: white !important;
+}
+
+.border-button{
+  border-radius: 15px !important;
+}
+.card .a{
+  
+  height: 250px;
+}
+
+.d-flex .comment{
+  border-radius: 30px !important;
+}
+
+.icon a{
+  color: white !important;
+}
+.profile{
+  background-color: #1d2226 !important;
+  color:white !important
+}
+.colors{
+  border-radius: 20px; 
+  background-color: #341f97; 
+
+  
+}
+.like-icon{
+  width: 15px;
+  height: 15px;
+}
